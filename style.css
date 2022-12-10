@@ -1,0 +1,16 @@
+h1 {
+    font-family: Satisfy;
+    font-size: 2.5em;
+}
+
+body {
+    font-family: Unbounded;
+    color: #828C9E;
+    background: #FFCBBD;
+}
+
+li {
+    margin: 7px;
+    border: 1px solid #FF7DA2;
+    padding: 13px;
+}
